@@ -1,0 +1,30 @@
+.stripe-payment-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 70vh;
+    padding: 20px;
+}
+
+.payment-template {
+    text-align: center;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    max-width: 500px;
+    width: 100%;
+}
+
+.payment-template h1 {
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+
+.payment-template button {
+    padding: 12px 20px;
+    background-color: #635bff;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
